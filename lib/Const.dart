@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class AppConst {
   static const appName = "FGithub";
   static const themeColor = MaterialColor(0xFF0366D6, <int, Color>{
-    50: Color(0xFFE3F2FD),
+    50: Color(0xFFEFF0F5),
     100: Color(0xFFBBDEFB),
     200: Color(0xFF90CAF9),
     300: Color(0xFF64B5F6),
